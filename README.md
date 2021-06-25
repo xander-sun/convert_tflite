@@ -9,8 +9,8 @@ git@github.com:tensorflow/models.git
 
 This projetct includes:
 1. saved_model to tflite
-2. tflitefrozen model to tflite   new finished
-3. checkpoint to tflite           new finished
+2. tflitefrozen model to tflite    (finished)
+3. checkpoint to tflite             (finished)
 
 From checkpoint to tflite:
 1. sh CovertTFliteFrozenFromCheckpoint.sh
